@@ -1,0 +1,10 @@
+.vs
+packages
+bin
+obj
+Debug
+Release
+*.user
+*.nupkg
+CodeCoverageHTML
+coverage.opencover.xml
